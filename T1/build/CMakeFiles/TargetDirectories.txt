@@ -1,3 +1,0 @@
-/mnt/d/FacultateAn4/iep/T1/build/CMakeFiles/rebuild_cache.dir
-/mnt/d/FacultateAn4/iep/T1/build/CMakeFiles/edit_cache.dir
-/mnt/d/FacultateAn4/iep/T1/build/CMakeFiles/T1.dir
